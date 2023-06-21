@@ -446,7 +446,7 @@ void Battle::GetSummaryParams( uint32_t res1, uint32_t res2, const HeroBase * he
             title.append( _( "The enemy has fled!" ) );
         }
         else {
-            title.append( _( "A glorious victory!" ) );
+            title.append( _( "A Glorious Victory!" ) );
         }
 
         if ( hero && hero->isHeroes() ) {
